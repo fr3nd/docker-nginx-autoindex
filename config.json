@@ -1,4 +1,4 @@
 {
-    "base_index_url": "/api",
+    "base_index_url": "api/",
     "tail_slash": true
 }
